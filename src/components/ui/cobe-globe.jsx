@@ -1,3 +1,4 @@
+import React from "react";
 import { useEffect, useRef, useCallback } from "react";
 import createGlobe from "cobe"
 

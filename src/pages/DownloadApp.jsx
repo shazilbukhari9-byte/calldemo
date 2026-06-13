@@ -1,3 +1,4 @@
+import React from "react";
 import { useState } from 'react'
 import { Link } from 'react-router-dom'
 import {
@@ -11,7 +12,7 @@ import Final from '../components/Final.jsx'
 import Testimonials from '../components/Testimonials.jsx'
 import Tweaks from '../components/Tweaks.jsx'
 import Seo, { faqSchema, breadcrumbSchema, mobileAppSchema } from '../components/Seo.jsx'
-import { Globe as CobeGlobe } from "@/components/ui/cobe-globe"
+import { Globe as CobeGlobe } from "../components/ui/cobe-globe"
 import ThreePart from '../components/ui/ThreePart.jsx'
 //nextgen
 

@@ -1,3 +1,4 @@
+import React from "react";
 import { useEffect, useState } from 'react'
 
 const SWATCHES = ['#1B99F9', '#2563EB', '#0EA5E9', '#7C3AED', '#059669', '#E11D48', '#F59E0B', '#161616']
